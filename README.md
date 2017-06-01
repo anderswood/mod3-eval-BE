@@ -43,7 +43,7 @@ Returns the specified quiz with added question
 ```json
 {
   "title": "Question Title",
-  "answers": []
+  "answers": [{title: '', score: 0}]
 }
 ```
 
